@@ -1,3 +1,3 @@
-# about koogetsu
+# about Koogetsu
 
-koogetsu is a game developer in Japan.
+Koogetsu is a game developer in Japan.
